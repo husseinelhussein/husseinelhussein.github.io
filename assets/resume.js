@@ -6,6 +6,13 @@ var interests = [
 ];
 var work_history = [
     {
+        company: 'LeadCapture',
+        company_url: 'https://mesnja.com',
+        date: 'August 2024 – Present',
+        role: 'Full-stack developer',
+        description: "<p>\n        Added new features to their web app, and developed the mobile app from scratch.\n        <br>\n        I've also worked with them on a side project, a multi-saas marketplace for makeup, my role was developing a shopware plugin and fix existing bugs and build new features.\n <br> </p>"
+    },
+    {
         company: 'Center Health',
         company_url: 'https://duo.center.health',
         date: 'Jan 2021 – June 2024',
